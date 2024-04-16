@@ -66,4 +66,4 @@ Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
 https://github.com/ZibranovSky/Web-Inventory-Barang
 
 # [Perbedaan]
-![Menu Login](images/readme/Screenshot 2024-04-16 193653.png)
+![Menu Login]<img width="960" alt="Screenshot 2024-04-16 193653" src="https://github.com/PatriciaElisabethSimanjuntak/PengkodeanDanPemograman-Sistem-Inventory/assets/166583081/4623bd8f-4134-4b32-88e1-be831b659866">
