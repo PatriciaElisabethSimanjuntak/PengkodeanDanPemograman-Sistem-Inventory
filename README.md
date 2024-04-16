@@ -112,6 +112,14 @@ AFTER
 <img width="960" alt="DATA SUPPLIER" src="https://github.com/PatriciaElisabethSimanjuntak/PengkodeanDanPemograman-Sistem-Inventory/assets/166583081/f2ccbd4a-15c3-412d-8191-aa839a1d84fa">
 
 
+ERD
+
+![image](https://github.com/PatriciaElisabethSimanjuntak/PengkodeanDanPemograman-Sistem-Inventory/assets/166583081/9faade64-ad74-4035-b5e7-011280130065)
+
+
+
+
+
 
 
 
