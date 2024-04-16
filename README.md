@@ -75,5 +75,7 @@ HALAMAN UTAMA
 BEFORE ![WhatsApp Image 2024-04-16 at 20 16 24_e69172f9](https://github.com/PatriciaElisabethSimanjuntak/PengkodeanDanPemograman-Sistem-Inventory/assets/166583081/2bc70e12-a97c-49aa-a583-2882d6a5f384)
 
 AFTER 
+<img width="960" alt="Screenshot 2024-04-16 193800" src="https://github.com/PatriciaElisabethSimanjuntak/PengkodeanDanPemograman-Sistem-Inventory/assets/166583081/1332e414-4782-4ea0-8269-137b9a3bf124">
+
 
 
