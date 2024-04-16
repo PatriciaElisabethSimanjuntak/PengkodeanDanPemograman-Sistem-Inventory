@@ -66,4 +66,4 @@ Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
 https://github.com/ZibranovSky/Web-Inventory-Barang
 
 # [Perbedaan]
-![Menu Login]("C:\xampp\htdocs\Web-Inventory-Barang-master\images\Screenshot 2024-04-16 193653.png")
+![Menu Login](images/readme/Screenshot 2024-04-16 193653.png)
