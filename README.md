@@ -102,6 +102,8 @@ BEFORE
 ![DATA BARANG KELUAR B](https://github.com/PatriciaElisabethSimanjuntak/PengkodeanDanPemograman-Sistem-Inventory/assets/166583081/badbddbe-3475-400c-874d-edf526b1a1b8)
 
 AFTER 
+
+
 <img width="960" alt="DATA BARANG KELUAR" src="https://github.com/PatriciaElisabethSimanjuntak/PengkodeanDanPemograman-Sistem-Inventory/assets/166583081/16d67410-905b-4127-92a4-78769b942ade">
 
 DATA SUPPLIER
@@ -109,6 +111,8 @@ BEFORE
 ![DATA SUPP B](https://github.com/PatriciaElisabethSimanjuntak/PengkodeanDanPemograman-Sistem-Inventory/assets/166583081/a5c43036-41bb-45a1-aecc-0966e9d74d84)
 
 AFTER 
+
+
 <img width="960" alt="DATA SUPPLIER" src="https://github.com/PatriciaElisabethSimanjuntak/PengkodeanDanPemograman-Sistem-Inventory/assets/166583081/f2ccbd4a-15c3-412d-8191-aa839a1d84fa">
 
 
